@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1200"
+   height="1200"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname="favicon.svg"
+   inkscape:version="1.3.2 (1:1.3.2+202311252150+091e20ef0f)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.33125"
+     inkscape:cx="632.45283"
+     inkscape:cy="624.90566"
+     inkscape:window-width="1920"
+     inkscape:window-height="1005"
+     inkscape:window-x="874"
+     inkscape:window-y="1080"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3"
+     showgrid="false" />
+  <g
+     id="g3"
+     mask="none"
+     transform="matrix(1,0,0,0.57130959,0,257.47605)">
+    <rect
+       fill="#169b62"
+       width="1200"
+       height="1199.0835"
+       id="rect1"
+       x="0"
+       y="0"
+       style="stroke-width:1.41367" />
+    <rect
+       fill="#ffffff"
+       x="400"
+       width="800"
+       height="1199.0835"
+       id="rect2"
+       y="0"
+       style="stroke-width:1.41367" />
+    <rect
+       fill="#ff883e"
+       x="800"
+       width="400"
+       height="1199.0835"
+       id="rect3"
+       y="0"
+       style="stroke-width:1.41367" />
+  </g>
+</svg>
